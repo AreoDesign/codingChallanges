@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Solution {
+public class JavaStringTokensReccursion {
     static List<String> words = new ArrayList<String>();
 
     private static boolean flagFinish = false;
